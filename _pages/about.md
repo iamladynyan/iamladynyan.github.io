@@ -2,24 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 🖥️ Code by Day, 🌙 Dreamer by Night – Welcome to my world of bugs and bliss. 😼
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: ladynyan.jpg
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Nuremberg</p>
+    <p>Germany</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+**Lady Nyan** is a **senior key expert in communication systems and control networks****, with nearly 17 years of experience in industrial automation. With a **PhD in computer science** from Friedrich-Alexander University in Erlangen, Germany, her expertise spans embedded systems, networking, and the Industrial Internet of Things (IIoT). Lady Nyan further broadened her perspective through a **semester abroad at Wrocław University of Science and Technology in Poland**, a formative experience that sparked her passion for IoT and protocol design.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Currently, Lady Nyan is diving into an exciting project: **building an MQTT broker from scratch**. With her background in industrial networking, she brings a unique blend of knowledge, curiosity, and enthusiasm to this project, making her blog a go-to source for developers interested in IoT and communication protocols.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+      All views expressed here are Lady Nyan’s own  
+      and do not reflect those of her employer, Siemens AG.

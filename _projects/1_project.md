@@ -54,7 +54,7 @@ PulseMQ will not only provide a deeper understanding of MQTT but also contribute
 
 ## Blog Series
 
-Explore the journey of building PulseMQ, an MQTT broker from scratch. Each post covers essential topics — from MQTT fundamentals to coding practices and implementation details. Dive in to follow along as PulseMQ takes shape!
+Explore the journey of building PulseMQ. Each post covers essential topics — from MQTT fundamentals to coding practices and implementation details. Dive in to follow along as PulseMQ takes shape!
 
 <ul> 
     {% assign related_posts = site.posts | where: "project", page.project_name %}

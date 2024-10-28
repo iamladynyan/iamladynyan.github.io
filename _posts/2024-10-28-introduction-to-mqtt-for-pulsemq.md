@@ -1,9 +1,9 @@
 ---
 layout: post
 title: What is MQTT, and Why is it Useful?
-date: 2024-10-28 16:44:00
+date: 2024-10-28 14:45:00
 description: An introductory overview of MQTT — exploring what it is, where it's used, and why it's essential — as the groundwork for building PulseMQ
-tags: iot mqtt pulsemq #
+tags: iot mqtt pulsemq
 categories: #sample-posts
 project: pulsemq
 ---

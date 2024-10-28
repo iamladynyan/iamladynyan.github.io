@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 🐾Hello, World 🐾
+title: 🐾 Hello, World 🐾
 date: 2024-10-27 15:48:00
 description: A warm meow to the world—welcome to Lady Nyan's Blog!
 tags: #
@@ -18,4 +18,4 @@ So here we are, at line one of this blog’s story, in a cozy syntax that’s pa
 Until next time… printf("Meow! 🐱");
 
 With paws and purrs,
-Lady Nyan 🐾
+*Lady Nyan 🐾*

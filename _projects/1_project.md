@@ -5,6 +5,7 @@ description: Building a basic MQTT 5 broker using C language from scratch.
 img: assets/img/pulsemq.png
 importance: 3
 category: fun
+project_name: pulsemq
 ---
 
 PulseMQ is an innovative project aimed at developing a fully functional MQTT 5 broker from the ground up using the C programming language. MQTT (Message Queuing Telemetry Transport) is a lightweight messaging protocol designed for devices with limited resources, making it ideal for Internet of Things (IoT) applications. PulseMQ will provide a robust platform for real-time messaging and communication between devices, enabling seamless data exchange and connectivity in diverse environments.
@@ -50,3 +51,16 @@ Make your photos 1/3, 2/3, or full width.
 For developers and contributors interested in the PulseMQ project, the source code and documentation can be found in the PulseMQ repository. The repository includes comprehensive instructions for setup, contributions, and testing. Contributions are welcome, and any feedback or suggestions to improve the project are highly appreciated.
 
 PulseMQ will not only provide a deeper understanding of MQTT but also contribute to the growing ecosystem of tools and platforms that support IoT development.
+
+## Blog Series
+
+Explore the journey of building PulseMQ, an MQTT broker from scratch. Each post covers essential topics — from MQTT fundamentals to coding practices and implementation details. Dive in to follow along as PulseMQ takes shape!
+
+<ul> 
+    {% assign related_posts = site.posts | where: "project", page.project_name %}
+    {% for post in related_posts %}
+        <li>
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a> - {{ post.date | date: "%B %d, %Y" }}
+        </li>
+    {% endfor %}
+</ul>

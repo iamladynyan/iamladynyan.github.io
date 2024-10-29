@@ -8,7 +8,7 @@ categories: #sample-posts
 project: pulsemq
 ---
 
-Welcome back, curious cats! Today, I’m excited to start our journey into **PulseMQ**, my project to build an MQTT broker from scratch. But first, let's get familiar with MQTT itself—what it is, where it’s used, and why it’s such a popular protocol for IoT and beyond. This is the groundwork we’ll need before diving into code, configuration, and setup in future posts.
+Welcome back, curious cats! Today, I’m excited to start our journey into **PulseMQ**, my project to build an MQTT broker from scratch. But first, let's get familiar with MQTT itself — what it is, where it’s used, and why it’s such a popular protocol for IoT and beyond. This is the groundwork we’ll need before diving into code, configuration, and setup in future posts.
 
 ## What is MQTT?
 
@@ -30,7 +30,7 @@ The flexibility of MQTT means it’s often applied wherever resource efficiency 
 MQTT’s strength lies in its simplicity and its publish-subscribe model, which has several benefits:
 
 - **Efficient Use of Resources**: The protocol uses a small code footprint and low bandwidth, making it perfect for devices with limited processing power and data capabilities.
-- **Asynchronous Communication**: Unlike point-to-point communication, MQTT’s publish-subscribe model means devices don't need to know each other directly—they simply send and receive messages through a broker, making it scalable.
+- **Asynchronous Communication**: Unlike point-to-point communication, MQTT’s publish-subscribe model means devices don't need to know each other directly — they simply send and receive messages through a broker, making it scalable.
 - **Flexible Quality of Service (QoS)**: MQTT offers three levels of message delivery assurance (QoS 0, QoS 1, and QoS 2), allowing applications to balance reliability and efficiency based on need.
 
 ## A Glimpse at MQTT Standards
@@ -44,6 +44,6 @@ For **PulseMQ**, I’ll focus on implementing **MQTT 5** due to its enhanced cap
 
 ## Next Steps: Setting up PulseMQ
 
-With this overview in place, our next post will dive into setting up our repository for PulseMQ, the coding standards we’ll follow, and initial configurations. There’s a lot to come as we bring this broker to life—so stay tuned for our first lines of code!
+With this overview in place, our next post will dive into setting up our repository for PulseMQ, the coding standards we’ll follow, and initial configurations. There’s a lot to come as we bring this broker to life — so stay tuned for our first lines of code!
 
 Thank you for joining me on this journey. Until next time... *Lady Nyan out!*
